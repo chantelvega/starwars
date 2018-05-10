@@ -1,0 +1,49 @@
+body {
+	background-color:#000000;
+}
+
+header {
+	color:#FFFFFF;
+	padding:25px;
+}
+
+section {
+	background-color:#FFFFFF;
+	padding:15px;
+}
+
+a:link, a:visited, a:hover, a:active {
+	text-decoration:none;
+	color:#000000;
+}
+
+.errorDiv {
+	display:none;
+}
+
+.headerPanel {
+	background-color:#BABABA;
+}
+
+.bodyPanel {
+	background-color:#DEDEDE;
+	padding:10px;
+}
+
+.nonPanel {
+	height:80px;
+	padding-left:30px;
+}
+
+.panelTitle {
+	padding-left:15px;
+}
+
+#physical {
+	border:1px solid #8E8D8D;
+	margin-bottom:0px;
+}
+
+#appearances {
+	border:1px solid #8E8D8D;
+}
